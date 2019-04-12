@@ -1,2 +1,0 @@
-# reactprojectwithredux
-Created with CodeSandbox
